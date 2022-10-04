@@ -32,3 +32,5 @@ Output: 71113
 
 Use verify [file] to test your solution and see how it does. When you are finished editing your code, 
 use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
+![Screenshot 2022-10-04 at 14 39 27](https://user-images.githubusercontent.com/58271203/193834613-bad0938a-4f31-4aed-8af5-bd0ce94f6f1b.png)
+
